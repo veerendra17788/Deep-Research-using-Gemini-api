@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/3oriNVc5SDGwV8cR8c/giphy.gif" width="30px" height="30px">
 </h1>
 
-<h3>Founded by <a href="https://www.linkedin.com/in/karri-vamsi-krishna-966537251/">K. Vamsi Krishna</a></h3>
+<h3>Founded by <a href="https://www.linkedin.com/in/karri-vamsi-krishna-966537251/">K. Veerendra Kumar</a></h3>
 
 <!-- Animated Badges with Hover Effects -->
 <p align="center">
